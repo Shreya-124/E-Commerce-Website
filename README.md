@@ -1,5 +1,5 @@
-<h1 style=""color:red;">E-Store</h1>
- This is a Full-Fledged E-Commerce Website,made purely to sell mobile phones.
+<h1>E-Store</h1>
+ This is a Full-Fledged E-Commerce Website,made purely to sell mobile phones.<br/>
  1) <b>Front-end</b>
    The Frontend of this website is built using :
   <ul>
@@ -44,7 +44,10 @@
   <li><b>users_items:</b>the id,item_id,status and user_id is stored here</li>
   </ol>
   All the necessary images have been provided here,which are used in this Project in <b>img</b> folder.<br/>
-  Visit all the pages which have been included with code.
+  Visit all the pages which have been included with code.<br/>
+  <h3>Screenshot of Index.php</h3>
+  <img width="250" alt="e" src="https://user-images.githubusercontent.com/58930225/88956246-ba536900-d2ba-11ea-9b51-56c987fb21fd.png"><br/>
+  The image shows the functionality of how the user cannot enter the home page of Shopping without getting Logged in.
   
   
     
