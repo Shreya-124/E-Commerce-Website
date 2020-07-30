@@ -46,7 +46,7 @@
   All the necessary images have been provided here,which are used in this Project in <b>img</b> folder.<br/>
   Visit all the pages which have been included with code.<br/>
   <h3>Screenshot of Index.php</h3>
-  <img width="250" alt="e" src="https://user-images.githubusercontent.com/58930225/88956246-ba536900-d2ba-11ea-9b51-56c987fb21fd.png"><br/>
+<img width="248" alt="e" src="https://user-images.githubusercontent.com/58930225/88956985-d277b800-d2bb-11ea-8a4f-58aa0c230328.png"><br/>
   The image shows the functionality of how the user cannot enter the home page of Shopping without getting Logged in.
   
   
