@@ -33,7 +33,7 @@
   <li><b>AboutUs.php</b>About Us page is made for the users to know more about the website i.e. when it was started etc.</li>
   <li><b>Contact.php</b>Contact page is used to share the feedback and to Contact if necessary</li>
   <li><b>Cart.php</b>It shows the item added to cart in a table format with the total price necessary to pay</li>
-  <li><b>Discount.php</b>Provides Discount to customers on Cart.php page,if correct Coupon Code is entered.<h6 style="color:red;">OFF</h6><i>is the discount code,in case you need it</i></li>
+  <li><b>Discount.php</b>Provides Discount to customers on Cart.php page,if correct Coupon Code is entered.<h6>OFF</h6><i>is the discount code,in case you need it</i></li>
   <li><b>Success.php</b>To show the confirmation that items are booked and redirect to home page to continue shopping</li>
   </ol>
   <h3>Database Involved</h3>
@@ -43,7 +43,7 @@
   <li><b>users:</b>the address,city,contact,email,id,name,password of users is stored here</li>
   <li><b>users_items</b>the id,item_id,status and user_id is stored here</li>
   </ol>
-  All the necessary images have been provided here,which are used in this Project in <b>img</b>folder.<br/>
+  All the necessary images have been provided here,which are used in this Project in <b>img</b> folder.<br/>
   Visit all the pages which have been included with code.
   
   
