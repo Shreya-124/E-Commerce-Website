@@ -29,12 +29,12 @@
   <li><b>Login Modal:</b>To make the page attractive,a Login Modal is created so as the user can login</li>
   <li><b>Login.php:</b>Whenever a user fails to enter the correct details a new page is opened with an error message</li>
   <li><b>Home.php:</b>The actual shopping page where the user adds items to their cart</li>
-  <li><b>SignUp.php</b>A page for new users to create their account</li>
-  <li><b>AboutUs.php</b>About Us page is made for the users to know more about the website i.e. when it was started etc.</li>
-  <li><b>Contact.php</b>Contact page is used to share the feedback and to Contact if necessary</li>
-  <li><b>Cart.php</b>It shows the item added to cart in a table format with the total price necessary to pay</li>
-  <li><b>Discount.php</b>Provides Discount to customers on Cart.php page,if correct Coupon Code is entered.<h6>OFF</h6><i>is the discount code,in case you need it</i></li>
-  <li><b>Success.php</b>To show the confirmation that items are booked and redirect to home page to continue shopping</li>
+  <li><b>SignUp.php:</b>A page for new users to create their account</li>
+  <li><b>AboutUs.php:</b>About Us page is made for the users to know more about the website i.e. when it was started etc.</li>
+  <li><b>Contact.php:</b>Contact page is used to share the feedback and to Contact if necessary</li>
+  <li><b>Cart.php:</b>It shows the item added to cart in a table format with the total price necessary to pay</li>
+  <li><b>Discount.php:</b>Provides Discount to customers on Cart.php page,if correct Coupon Code is entered.<h6>OFF</h6><i>is the discount code,in case you need it</i></li>
+  <li><b>Success.php:</b>To show the confirmation that items are booked and redirect to home page to continue shopping</li>
   </ol>
   <h3>Database Involved</h3>
   The data is stored in the <b>store</b> database,it consists of the tables:
