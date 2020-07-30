@@ -18,9 +18,9 @@
    </ul>
   3) The Website is designed using the IDE:
                        NetBeans IDE 8.2 RC<br/>
-                       The link to install this IDE is provided: <a href="https://netbeans.org/community/releases/82/install.html">Install Netbeans</a>
-                       Just Follow the steps mentioned to install the IDE setup.
-  4)The Database Of the website is stored in the localhost using WAMPSERVER 3.2.0.
+                       The link to install this IDE is provided: <a href="https://netbeans.org/community/releases/82/install.html">Install Netbeans</a><br/>
+                       Just Follow the steps mentioned to install the IDE setup.<br/>
+  4)The Database Of the website is stored in the localhost using WAMPSERVER 3.2.0.<br/>
                        Install the WAMPSERVER using the folloeing link: <a href="https://www.wampserver.com/en/download-wampserver-64bits/">Wamp</a>
                                                                                                                                            
   <h3>Functionality Of Website</h3>
