@@ -1,0 +1,149 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28 May, 2020, 10:26:20 PM
+    Author     : shrey
+*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,400;1,100;1,300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins' , sans-serif;
+}
+.content{
+    min-height: 660px;
+}
+
+.signup-image{
+    height: 580px;
+}
+
+.btn-signup{
+    display: flex;
+    justify-content: flex-end;
+}
+body{
+    padding-top:50px;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Lato","Helvetica Neue";
+    font-weight: 700;
+}
+
+.navbar-brand{
+    font-size:20px;
+}
+.row-style{
+  margin-top:70px;
+margin-bottom:60px;  
+  }
+footer{
+    background-color: #101010;
+    padding: 10px 0px;
+    color: #9d9d9d;
+    width: 100%;
+}
+.error {color: #FF0000;}
+
+.phone{
+    height: 250px;
+    margin: 0px auto;
+    transition: 0.7s ease-out;
+}
+.about-h3{
+    font-weight:700;
+    font-style: oblique;
+    
+}
+.about-img{
+    margin: 0px auto;
+}
+.signup-image{
+    height: 500px;
+}
+.about-p{
+   margin-top:30px;
+    font-style: oblique;
+}
+.p-bold{
+    font-weight: 900;
+}
+
+.p-blue{
+    color: blue;
+}
+.panel-default-setting{
+    margin-top:50px;
+    margin-bottom:50px;
+}
+#login-panel .panel-footer{
+    font-weight:normal;
+}
+.red{
+    color: red;
+}
+.remove_item_link{
+    color:red;
+}
+.navbar-brand{
+    font-size:20px;
+}
+.about-head{
+    font-family: tahoma;
+}
+#content{
+    min-height: 600px;
+}
+
+ #banner_image{
+                padding-top: 75px;
+padding-bottom: 50px;
+ text-align: center;
+color: #f8f8f8;
+background:url(img/intro.jpg) no-repeat center center;
+background-size: cover;
+            }
+            #banner_content{
+                position: relative;
+                padding-top: 6%;
+                padding-bottom: 6%;
+                margin-top: 12%;
+                margin-bottom: 12%;
+                background-color: rgba(0, 0, 0, 0.7);
+                max-width: 660px;
+            }
+
+#item_list {
+    padding-top: 25px;
+}
+
+@media(max-width:768px) {
+    #banner_content {
+        padding-bottom: 15%;
+    }
+    footer{
+        text-align:left;
+    }
+}
+.modal{
+    border-color: #337ab7;
+}
+.modal-header{
+    background-color:#337ab7;
+    color: white !important;
+}
+
+.modal-footer{
+    background-color: #f9f9f9;
+}
