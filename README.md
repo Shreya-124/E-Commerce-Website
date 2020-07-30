@@ -41,7 +41,7 @@
   <ol>
   <li><b>items:</b>the id,name and Price of items are stored here<li>
   <li><b>users:</b>the address,city,contact,email,id,name,password of users is stored here</li>
-  <li><b>users_items</b>the id,item_id,status and user_id is stored here</li>
+  <li><b>users_items:</b>the id,item_id,status and user_id is stored here</li>
   </ol>
   All the necessary images have been provided here,which are used in this Project in <b>img</b> folder.<br/>
   Visit all the pages which have been included with code.
